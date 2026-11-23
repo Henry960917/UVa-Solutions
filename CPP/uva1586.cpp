@@ -1,3 +1,4 @@
+// molar mass: 自訂函數去抓原子量，用while看他是不是數字，是的話就cnt = cnt*10+(s[j]-'0'); cnt=0表示只有一個原子
 #include <iostream>
 #include <vector>
 #include <algorithm>
