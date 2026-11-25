@@ -1,3 +1,4 @@
+// Polynomial Showdown: 照條件處理
 #include <iostream>
 #include <vector>
 #include <algorithm>
